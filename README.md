@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditi Verma</h1>
 <h3 align="center">ML | DL | GenAI | LLM | RAG</h3>
 
-<div align="center">
-  <img alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f">
-</div>
-
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditiverma05&label=Profile%20views&color=blueviolet&style=flat-square" alt="aditiverma05" />
-</p>
-
+<table>
+<tr>
+<td width="35%" align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="250" style="border-radius: 50%;">
+</td>
+<td width="65%">
+  
 ## 🚀 About Me
 
 - 🤖 Building intelligent systems with **ML, DL & GenAI**
@@ -19,6 +18,16 @@
 - 🌟 Focused on **Neural Networks, Computer Vision, and NLP**
 - 💡 Transforming complex problems into scalable AI solutions
 - 📚 Implementing cutting-edge research in real-world projects
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditiverma05&label=Profile%20views&color=blueviolet&style=flat-square" alt="aditiverma05" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
@@ -66,3 +75,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🎯 Current Focus
+
+- 🔍 Advanced RAG architectures and vector databases
+- 🌟 Building multi-agent LLM systems
+- 📚 Fine-tuning LLMs for domain-specific tasks
+- 🔬 Prompt engineering and chain-of-thought reasoning
+- 🛠️ Contributing to open-source GenAI projects
